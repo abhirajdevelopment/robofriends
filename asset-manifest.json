@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/abhirajdevelopment/robofriends/static/css/main.77d980d6.chunk.css",
+    "main.js": "/abhirajdevelopment/robofriends/static/js/main.c87d3a54.chunk.js",
+    "main.js.map": "/abhirajdevelopment/robofriends/static/js/main.c87d3a54.chunk.js.map",
+    "runtime-main.js": "/abhirajdevelopment/robofriends/static/js/runtime-main.e2eacee7.js",
+    "runtime-main.js.map": "/abhirajdevelopment/robofriends/static/js/runtime-main.e2eacee7.js.map",
+    "static/css/2.31461e4f.chunk.css": "/abhirajdevelopment/robofriends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.b675d6dc.chunk.js": "/abhirajdevelopment/robofriends/static/js/2.b675d6dc.chunk.js",
+    "static/js/2.b675d6dc.chunk.js.map": "/abhirajdevelopment/robofriends/static/js/2.b675d6dc.chunk.js.map",
+    "static/js/3.1ad48d54.chunk.js": "/abhirajdevelopment/robofriends/static/js/3.1ad48d54.chunk.js",
+    "static/js/3.1ad48d54.chunk.js.map": "/abhirajdevelopment/robofriends/static/js/3.1ad48d54.chunk.js.map",
+    "index.html": "/abhirajdevelopment/robofriends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/abhirajdevelopment/robofriends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.77d980d6.chunk.css.map": "/abhirajdevelopment/robofriends/static/css/main.77d980d6.chunk.css.map",
+    "static/js/2.b675d6dc.chunk.js.LICENSE.txt": "/abhirajdevelopment/robofriends/static/js/2.b675d6dc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/abhirajdevelopment/robofriends/static/media/sega.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2eacee7.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.b675d6dc.chunk.js",
+    "static/css/main.77d980d6.chunk.css",
+    "static/js/main.c87d3a54.chunk.js"
+  ]
+}
